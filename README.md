@@ -1,3 +1,3 @@
 # dice
 
- Demo: https://durnazeynalli.github.io/dice/
+ Demo: https://durnazeynalli.github.io/dice/ 
